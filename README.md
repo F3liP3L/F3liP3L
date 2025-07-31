@@ -4,7 +4,7 @@
   <em>Software developer with over 2 years of experience building efficient solutions using Java, Spring Boot, Angular, and clean architectures like Microkernel. Passionate about innovation, automation, and engineering.</em>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=felipelora&label=Profile%20views&color=0e75b6&style=flat" alt="felipelora" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=felipelora&label=Profile%20views&color=0e75b6&style=flat" alt="F3liP3L" /> </p>
 
 ---
 - 👯 Looking to collaborate on **projects with social or scientific impact**
@@ -16,9 +16,9 @@
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![MIPS](https://img.shields.io/badge/MIPS-00599C?style=for-the-badge)
 
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
