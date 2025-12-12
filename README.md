@@ -36,15 +36,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=F3liP3L&show_icons=true&theme=tokyonight&count_private=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=F3liP3L&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3liP3L&layout=compact&theme=tokyonight" />
-</p>
+<section>
+  <div align="center">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=F3liP3L&theme=tokyonight" />
+  </div>
+</section>
 
 ---
 
