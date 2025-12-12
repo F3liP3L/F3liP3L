@@ -36,11 +36,9 @@
 
 ## 📊 GitHub Stats
 
-<section>
-  <div align="center">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=F3liP3L&theme=tokyonight" />
-  </div>
-</section>
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=F3liP3L&theme=tokyonight" />
+</div>
 
 ---
 
