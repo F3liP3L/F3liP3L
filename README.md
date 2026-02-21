@@ -2,7 +2,7 @@
 
 <section align="center">
   <p>
-    <em>Software developer with over 3 years of experience designing and developing scalable, high-performance solutions with Java, Spring Boot, Angular. Focused on implementing clean, modern architectures such as microservices and microkernels. Passionate about science, innovation, automation, and engineering.</em>
+    <em>Software developer with over 3 years of experience designing and developing scalable, high-performance solutions with Java, Spring Boot, Angular and focused on implementing clean, modern architectures such as microservices and microkernels. Passionate about science, innovation, automation, and engineering.</em>
   </p>
 
   <p>
