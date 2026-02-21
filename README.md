@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
+<h1 align="center">Hi 👋, I'm Juan Felipe</h1>
 
 <section align="center">
   <p>
-    <em>Software developer with over 2 years of experience building efficient solutions using Java, Spring Boot, Angular, and clean architectures like Microkernel. Passionate about innovation, automation, and engineering.</em>
+    <em>Software developer with over 3 years of experience designing and developing scalable, high-performance solutions with Java, Spring Boot, Angular. Focused on implementing clean, modern architectures such as microservices and microkernels. Passionate about science, innovation, automation, and engineering.</em>
   </p>
 
   <p>
@@ -82,4 +82,4 @@
 
 ---
 
-<sub>Last updated: [🗓️ July 2025]</sub>
+<sub>Last updated: [🗓️ February 2026]</sub>
