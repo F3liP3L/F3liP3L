@@ -72,3 +72,7 @@
 <p align="center">
   <sub>Last updated: [🗓️ Nov 2026]</sub>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=120&section=footer" width="100%" />
+</p>
